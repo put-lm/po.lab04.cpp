@@ -14,10 +14,12 @@
 		* wyświetl nowe pola z klasy pochodnej
 5. W jednej z klas pochodnych dodaj nowy dodatkowy konstruktor wykorzystujący tzn. konstruktor kopiujący klasy bazowej - czyli chodzi o to by zamiast w konstruktorze klasy pochodnej podawać wszystkie pola klasy bazowej osobno to weźmiemy sobie cały obiekt (przykład znajdziesz w klasie `AudioBook`.
 6. Utwórz obiekt każdej ze swoich klas i wykonaj metodę `show` o ile to możliwe.
-
 7. :technologist: Czas na zabawę z kodem: 
 	* zmieniaj sposoby dostępności w klasach i zbadaj jak zachowują się możliwości dostępu w klasach pochodnych/bazowych oraz z punktu widzenia obiektu (czyli z main, bo zapewne tam stworzone są obiekty)
 	* zmieniaj sposoby dziedziczenia i zbadaj jak zachowują się możliwości dostępu w klasach pochodnych/bazowych oraz z punktu widzenia obiektu (czyli z main, bo zapewne tam stworzone są obiekty)
 8. :books: Zadanie domowe:
 	* Utwórz diagram UML powstałej aplikacji. 
 	* Przynieś ukończone rozwiązanie na następne zajęcia.
+
+Przykład UML:
+![](https://i.imgur.com/0XXRFCD.png)
